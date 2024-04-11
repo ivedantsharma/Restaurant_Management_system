@@ -28,6 +28,4 @@ Contact Us Page:-
 ![Screenshot 2022-11-12 at 3 53 37 PM](https://user-images.githubusercontent.com/114575434/215434312-96e29da1-8491-4f27-8853-f87bc7f2d713.png)
 
 
-
-Free Live Demo:-https://restaurant-frontend-5teja4ug1-himanshur25.vercel.app/
 # Restaurant_Management_system
